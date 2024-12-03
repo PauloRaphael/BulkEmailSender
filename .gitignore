@@ -24,6 +24,8 @@ ENV/
 *.swp
 *.swo
 *~
+.Files
+emails.json
 
 # Pytest
 .cache/
