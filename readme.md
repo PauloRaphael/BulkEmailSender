@@ -141,12 +141,6 @@ The `emails.json` file should be created in the root directory of the project. T
 
 ---
 
-## License  
-
-This project is licensed under the MIT License.  
-
----
-
 ## Contributing  
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for any suggestions or bugs.  
